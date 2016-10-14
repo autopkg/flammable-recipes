@@ -13,7 +13,7 @@
 		<key>NAME</key>
 		<string>dupeGuru</string>
 		<key>SPARKLE_FEED_URL</key>
-		<string>http://www.hardcoded.net/updates/dupeguru.appcast</string>
+		<string>https://www.hardcoded.net/updates/dupeguru.appcast</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.5.0</string>
