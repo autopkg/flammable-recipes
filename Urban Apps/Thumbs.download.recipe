@@ -13,7 +13,7 @@
 		<key>NAME</key>
 		<string>Thumbs</string>
 		<key>SPARKLE_FEED_URL</key>
-		<string>http://thumbsapp.com/appcast</string>
+		<string>https://thumbsapp.com/appcast</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
