@@ -5,7 +5,7 @@
 		<key>Description</key>
 		<string>Downloads the current version of dupeGuru.</string>
 		<key>Identifier</key>
-		<string>com.github.grahampugh.recipes.download.dupeGuru</string>
+		<string>com.github.flammable.download.dupeGuru</string>
 		<key>Input</key>
 		<dict>
 			<key>NAME</key>
