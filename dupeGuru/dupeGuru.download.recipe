@@ -16,9 +16,13 @@
 		<string>https://www.hardcoded.net/updates/dupeguru.appcast</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.5.0</string>
+	<string>1.1.0</string>
 	<key>Process</key>
 	<array>
+		<dict>
+			<key>Processor</key>
+			<string>DeprecationWarning</string>
+		</dict>
 		<dict>
 			<key>Arguments</key>
 			<dict>
