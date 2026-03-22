@@ -23,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.zip</string>
 				<key>url</key>
-				<string>http://files.tempel.org/Various/OSX_Prefs_Editor/PrefsEditor.zip</string>
+				<string>https://files.tempel.org/Various/OSX_Prefs_Editor/PrefsEditor.zip</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
